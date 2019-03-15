@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/earth.png</file>
+        <file>images/galaxy_starfield.png</file>
+        <file>images/jupiter.png</file>
+        <file>images/mars.png</file>
+        <file>images/mercury.png</file>
+        <file>images/moon.png</file>
+        <file>images/neptune.png</file>
+        <file>images/saturn.png</file>
+        <file>images/sun.png</file>
+        <file>images/uranus.png</file>
+        <file>images/venus.png</file>
+    </qresource>
+</RCC>
